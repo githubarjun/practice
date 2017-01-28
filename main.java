@@ -7,5 +7,9 @@ public class Main{
 	public void print(){
 		Sysout.out.println(“printing”);
 	}
+	
+	public void display(){
+		Sysout.out.println(“displaying”);
+	}
 
 }
