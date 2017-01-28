@@ -7,6 +7,7 @@ public class Main{
 
 	public void print(){
 		Sysout.out.println(“printing”);
+		//pring bug fixed
 	}
 	
 	public void display(){
