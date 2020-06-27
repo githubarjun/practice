@@ -1,4 +1,0 @@
-main.memoria.jdbc-url=jdbc:mysql://localhost:3306/memoria
-main.memoria.driver-class-name=com.mysql.cj.jdbc.Driver
-main.memoria.username=root
-main.memoria.password=ENC(epWRK3PGZqwsYTMBHSMa3ibmN5R1edJ3)
